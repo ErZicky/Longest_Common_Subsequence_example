@@ -1,5 +1,5 @@
 # Longest_Common_Subsequence_example
-A simple script to find the [longest common subsequence]([https://pages.github.com/](https://en.wikipedia.org/wiki/Longest_common_subsequence)) (and relative score) given two input file 
+A simple script to find the [longest common subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence) (and relative score) given two input file 
 
 ## HOW TO USE:
 
