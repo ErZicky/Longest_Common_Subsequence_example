@@ -1,0 +1,1 @@
+if(Var == "ciao") { f = a + b}
